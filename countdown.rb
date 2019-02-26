@@ -2,5 +2,5 @@ number = 0
 
 def countdown 
   while number > 0 
-  puts 
+  puts "#{number} SECOND(S)"
 end
